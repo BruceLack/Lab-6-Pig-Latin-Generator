@@ -1,0 +1,6 @@
+c:\users\bruce\documents\visual studio 2015\Projects\Lab6\Lab6\bin\Debug\Lab6.exe.config
+c:\users\bruce\documents\visual studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+c:\users\bruce\documents\visual studio 2015\Projects\Lab6\Lab6\bin\Debug\Lab6.exe
+c:\users\bruce\documents\visual studio 2015\Projects\Lab6\Lab6\bin\Debug\Lab6.pdb
+c:\users\bruce\documents\visual studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.exe
+c:\users\bruce\documents\visual studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.pdb
